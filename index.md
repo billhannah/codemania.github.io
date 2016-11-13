@@ -38,7 +38,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="speakers">
+      <div class="titleImageContainer" id="speakers">
         Speakers
       </div>
     </div>
@@ -105,7 +105,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row about-title">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="about">
+      <div class="titleImageContainer" id="about">
         About
       </div>
       <img src="/images/2017/peggy.svg" class="peggy" />
@@ -127,7 +127,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row tickets-title">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="tickets">
+      <div class="titleImageContainer" id="tickets">
         Tickets
       </div>
     </div>
@@ -178,68 +178,59 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="sponsors">
+      <div class="titleImageContainer" id="sponsors">
         Sponsors
       </div>
     </div>
-    <div class="row sponsor-row">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <div class="row">
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="http://www.fraedom.com">
-              <img src="/images/sponsors/logo_fraedom.png" />
-            </a>
-          </div>
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="http://www.microsoft.co.nz">
-              <img src="/images/sponsors/logo_microsoft.png" />
-            </a>
-          </div>
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="http://pushpay.com">
-              <img src="/images/sponsors/logo_pushpay.png" />
-            </a>
-          </div>
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="http://www.trademe.co.nz">
-              <img src="/images/sponsors/logo_trademe.png" />
-            </a>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="http://www.aucklandnz.com/ateed/">
-              <img src="/images/sponsors/logo_ateed.png" height="75" />
-            </a>
-          </div>
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="https://octopus.com/">
-              <img src="/images/sponsors/logo_octopus.png" />
-            </a>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="https://serato.com/">
-              <img src="/images/sponsors/logo_serato.png" />
-            </a>
-          </div>
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="http://www.vodafone.co.nz/">
-              <img src="/images/sponsors/logo_vodafone.png" />
-            </a>
-          </div>
-          <div class="col-lg-12 col-sm-12 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="http://www.raygun.io">
-              <img src="/images/sponsors/logo_raygun.png" />
-            </a>
-          </div>
-        </div>
-        <div class="clearfix"></div>
+    <div class="sponsors">
+      <div class="sponsor">
+         <a target="_blank" href="http://www.fraedom.com">
+           <img src="/images/sponsors/logo_fraedom.png" />
+         </a>
+      </div>
+      <div class="sponsor">
+        <a target="_blank" href="http://www.microsoft.co.nz">
+          <img src="/images/sponsors/logo_microsoft.png" />
+        </a>
+      </div>
+      <div class="sponsor">
+        <a target="_blank" href="http://pushpay.com">
+          <img src="/images/sponsors/logo_pushpay.png" />
+        </a>
+      </div>
+      <div class="sponsor">
+        <a target="_blank" href="http://www.trademe.co.nz">
+          <img src="/images/sponsors/logo_trademe.png" />
+        </a>
+      </div>
+      <div class="sponsor">
+        <a target="_blank" href="http://www.aucklandnz.com/ateed/">
+          <img src="/images/sponsors/logo_ateed.png" height="75" />
+        </a>
+      </div>
+      <div class="sponsor">
+        <a target="_blank" href="https://octopus.com/">
+          <img src="/images/sponsors/logo_octopus.png" />
+        </a>
+      </div>
+      <div class="sponsor">
+        <a target="_blank" href="https://serato.com/">
+          <img src="/images/sponsors/logo_serato.png" />
+        </a>
+      </div>
+      <div class="sponsor">
+        <a target="_blank" href="http://www.vodafone.co.nz/">
+          <img src="/images/sponsors/logo_vodafone.png" />
+        </a>
+      </div>
+      <div class="sponsor">
+        <a target="_blank" href="http://www.raygun.io">
+          <img src="/images/sponsors/logo_raygun.png" />
+        </a>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="friends">
+      <div class="titleImageContainer" id="friends">
         Friends
       </div>
     </div>
