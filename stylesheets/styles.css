@@ -309,6 +309,13 @@ a.hilite:hover {
 }
 .tickets-title {
   margin: 50px 0 200px;
+  position: relative;
+}
+.tickets-title .fuobe2 {
+  position: absolute;
+  width: 15%;
+  top: 45%;
+  right: 15%;
 }
 .sponsors {
   max-width: 760px;
